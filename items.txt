@@ -1,0 +1,15 @@
+miecz1 = {}
+miecz2 = {}
+miecz3 = {}
+
+zbroja1 = {}
+zbroja2 = {}
+zbroja3 = {}
+
+hp = {}
+
+list_of_items_map1 = [miecz1, zbroja1, hp]
+
+list_of_items_map2 = [miecz2, zbroja2, hp]
+
+list_of_items_map3 = [miecz1, zbroja1, hp]
